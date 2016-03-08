@@ -7,7 +7,7 @@
 
 <body>
 
-My Great index.php file
+Second change to index page body
 
 </body>
 </html>
